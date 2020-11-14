@@ -1,0 +1,1 @@
+So before starting this notebook, I have something to tell you. If you want to use this guide for your learning path, buy Raspberry Pi if you can. Why? Raspberry Pi is like a microcomputer which can be used as NAS server, router, robot, for automation and many many other purposes. It's really cheap and it's very useful. That's all, thanks for reading.
